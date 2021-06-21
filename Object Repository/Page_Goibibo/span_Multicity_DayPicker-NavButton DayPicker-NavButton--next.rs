@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Multicity_DayPicker-NavButton DayPicker-NavButton--next</name>
+   <tag></tag>
+   <elementGuidId>27376b2c-6205-44de-b2b9-f676d53ce51e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.DayPicker-NavButton.DayPicker-NavButton--next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchWidgetCommon']/div/div/div/div/div[6]/div/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Next Month</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DayPicker-NavButton DayPicker-NavButton--next</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchWidgetCommon&quot;)/div[1]/div[@class=&quot;dF justifyBetween flexWrap&quot;]/div[@class=&quot;col-md-11 pad0 dF width90 flexWrap justifyCenter&quot;]/div[@class=&quot;col-md-12 pad0 dF flexWrap brdrRd5 marginB10 fltHpySrchWrp whiteBg&quot;]/div[@class=&quot;dF whiteBg col-sm-5 alignItemsCenter col-md-2&quot;]/div[@class=&quot;fareCalFlt&quot;]/div[@class=&quot;DayPicker&quot;]/div[@class=&quot;DayPicker-wrapper&quot;]/div[@class=&quot;DayPicker-NavBar&quot;]/span[@class=&quot;DayPicker-NavButton DayPicker-NavButton--next&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchWidgetCommon']/div/div/div/div/div[6]/div/div/div/div/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

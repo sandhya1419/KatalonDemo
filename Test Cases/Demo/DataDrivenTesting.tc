@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTesting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de15dc9b-2b16-45a3-ae60-e7f60e01cfe6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8807f50f-cb04-48b0-9e4f-5fc5cd4c4119</id>
+      <masked>false</masked>
+      <name>Search</name>
+   </variable>
+</TestCaseEntity>
