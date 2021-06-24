@@ -6,12 +6,12 @@
    <elementGuidId>0b7b5052-7865-48d2-a113-b629d9a56c9a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li.a-selected > a</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='←Previous'])[1]/following::a[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='search']/div/div/div/div/span[3]/div[2]/div[17]/span/div/div/ul/li[2]/a</value>
+         <key>CSS</key>
+         <value>li.a-selected > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
