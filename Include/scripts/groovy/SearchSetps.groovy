@@ -10,17 +10,13 @@ import cucumber.api.java.en.When
 
 
 class SearchSetps {
-
 	@Given("user launch the webiste")
 	public void user_launch_website() {
 		WebUI.openBrowser('')
 		WebUI.maximizeWindow()
-
 		WebUI.navigateToUrl('https://www.amazon.com/')
 	}
-
-
-
+	
 	@When("user enter the (.*)")
 	public void user_enter_the_product(String product) {
 		println "I am inside When"

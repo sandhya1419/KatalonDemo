@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "B71FC2C07B0CE9B1AF560800E6F48877",
+  "keywordFileContentHash": "BC039E2E365317A38D41DDF61DB99CC5",
   "keywordClasses": [
     {
       "name": "SearchSetps",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
